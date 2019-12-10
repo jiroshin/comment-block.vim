@@ -32,7 +32,7 @@ you can Adjust the length of comment out by setting `g:comment_length`.
 `g:comment_length` is 60 by default.
 
 # Precautions for use
-jiroshin/comment-block Enable the following options automatically.
+jiroshin/comment-block.vim Enable the following options automatically.
 ```vim
   filetype plugin indent on
 ```
