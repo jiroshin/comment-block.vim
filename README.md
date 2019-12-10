@@ -18,7 +18,7 @@ when you edit file which filetype is `.vim`
 "------------------------------------------------------------"
 ```
 
-# usage
+# Usage
 you can install like this.
 ```
 Plug 'jiroshin/comment-block.vim'
